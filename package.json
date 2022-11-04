@@ -1,0 +1,18 @@
+{
+  "name": "deploy-tester",
+  "version": "1.0.0",
+  "description": "tests deploy sites :P",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "asdasd",
+    "deploytester"
+  ],
+  "author": "Anicka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
